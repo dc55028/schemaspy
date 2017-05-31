@@ -1,0 +1,12 @@
+org/schemaspy/service/DatabaseServiceIT.class
+org/schemaspy/util/GraphvizVersionTest.class
+org/schemaspy/model/TableFullNameTest.class
+org/schemaspy/model/TableColumnMetaTest.class
+org/schemaspy/util/DbSpecificOptionTest.class
+org/schemaspy/cli/CommandLineArgumentParserTest.class
+org/schemaspy/util/RailsNamingTest.class
+org/schemaspy/DbDriverLoaderTest.class
+org/schemaspy/ConfigTest.class
+org/schemaspy/cli/ConfigFileArgumentParserTest.class
+org/schemaspy/testing/H2MemoryRule.class
+org/schemaspy/DbAnalyzerTest.class

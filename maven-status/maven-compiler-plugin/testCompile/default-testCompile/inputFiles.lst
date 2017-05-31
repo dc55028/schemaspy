@@ -1,0 +1,12 @@
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/DbAnalyzerTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/cli/CommandLineArgumentParserTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/service/DatabaseServiceIT.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/ConfigTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/testing/H2MemoryRule.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/model/TableColumnMetaTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/util/GraphvizVersionTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/DbDriverLoaderTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/cli/ConfigFileArgumentParserTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/model/TableFullNameTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/util/DbSpecificOptionTest.java
+/home/travis/build/schemaspy/schemaspy/src/test/java/org/schemaspy/util/RailsNamingTest.java
